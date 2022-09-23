@@ -1,0 +1,47 @@
+
+.fondo{
+    background-color: grey;
+}
+
+.fondo.verde{
+    background-color: green
+}
+
+.fondo.azul{
+    background-color: blue
+}
+
+.fondo.naranja{
+    background-color: orange
+
+}
+
+.fondo.blanco{
+    background-color: grey;
+}
+
+.caja{
+    display: inline-flex; 
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    margin: 15px; 
+}
+
+#azul{
+    background-color: blue
+}
+
+#verde{
+    background-color: green
+}
+
+#naranja{
+    background-color: orange
+}
+
+#blanco{
+    background-color: whitesmoke;
+}
+
+
